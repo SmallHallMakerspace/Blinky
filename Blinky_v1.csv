@@ -1,0 +1,12 @@
+Part,Value,Device,Package,Description,COST1000,COST1000_B,LINK,LINK_B
+BT1,BAT-HLD-001-THM,BAT-HLD-001-THM,LINX_BAT-HLD-001-THM,Battery Holder CR2025/2032 Through Hole Mount,0.196,0.184,http://www.mouser.com/ProductDetail/Linx-Technologies/BAT-HLD-001-THM/,http://www.mouser.com/ProductDetail/Panasonic-Battery/CR2016/
+C1,10u,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,0.048,,http://www.mouser.com/ProductDetail/Nichicon/USA1C100MDD/,
+C2,10u,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,0.048,,http://www.mouser.com/ProductDetail/Nichicon/USA1C100MDD/,
+LED1,RED,LED5MM,LED5MM,LED,0.038,,http://www.mouser.com/ProductDetail/Lumex/SLX-LX5093ID/,
+LED2,RED,LED5MM,LED5MM,LED,0.038,,http://www.mouser.com/ProductDetail/Lumex/SLX-LX5093ID/,
+R1,220,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,0.009,,http://www.mouser.com/ProductDetail/Yageo/CFR-25JR-52-220R/,
+R2,220,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,0.009,,http://www.mouser.com/ProductDetail/Yageo/CFR-25JR-52-220R/,
+R3,100k,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,0.015,,http://www.mouser.com/ProductDetail/Yageo/MFR-25FRF52-100K/,
+R4,100k,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,0.015,,http://www.mouser.com/ProductDetail/Yageo/MFR-25FRF52-100K/,
+U$1,TRANSISTOR_NPN_2PTH,TRANSISTOR_NPN_2PTH,TO-92,Alternate TO-92 NPN BJT,0.039,,http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/PN2222ATF/,
+U$2,TRANSISTOR_NPN_2PTH,TRANSISTOR_NPN_2PTH,TO-92,Alternate TO-92 NPN BJT,0.039,,http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/PN2222ATF/,
